@@ -3,7 +3,7 @@
 
 This is a simple example to complete the first training session.
 
-Be sure to have started the 1 Gem Pickup training session and fill in the
+Be sure you have started the 1 Gem Pickup training session and fill in the
 bot_id and bot_token below. You may need to reset the training session if
 you get any errors.
 

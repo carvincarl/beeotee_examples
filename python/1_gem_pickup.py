@@ -1,5 +1,5 @@
 """
-1 Gem Pickup example.
+BeeOTee 1 Gem Pickup training session example.
 
 This is a simple example to complete the first training session.
 

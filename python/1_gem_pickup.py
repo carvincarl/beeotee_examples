@@ -74,7 +74,7 @@ sleep(3)
 # Pick up the gem.
 ##############################################################################
 url = f"{bot_host}/bots/{bot_id}/items/{gem_id}"
-response = requests.put(url, json=location, headers=headers)
+response = requests.put(url, headers=headers)
 content = response.json()
 print(f"{response.status_code} {url}")
 print(content)
